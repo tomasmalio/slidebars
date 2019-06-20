@@ -11,5 +11,6 @@
 			"name": "Adam Charles Smith",
 			"homepage": "http://www.adchsm.com/"
 		}
-	]
+	],
+	"minimum-stability": "stable"
 }
