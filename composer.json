@@ -3,9 +3,6 @@
 	"description": "Slidebars is a jQuery framework for creating app-style off-canvas menus and sidebars.",
 	"type": "library",
 	"license": "MIT",
-	"require": {
-		"slidebars/slidebars": "2.0.2"
-	},
 	"authors": [
 		{
 			"name": "Adam Charles Smith",
