@@ -1,0 +1,16 @@
+{
+	"name": "slidebars/slidebars",
+	"description": "Slidebars is a jQuery framework for creating app-style off-canvas menus and sidebars.",
+	"type": "library",
+	"license": "MIT",
+	"require": {
+		"php": "^7.2",
+		"slidebars/slidebars": "2.0.2"
+	},
+	"authors": [
+		{
+			"name": "Adam Charles Smith",
+			"homepage": "http://www.adchsm.com/"
+		}
+	]
+}
