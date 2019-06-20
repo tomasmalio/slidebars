@@ -155,15 +155,11 @@ html, body {
 }
 
 /* -----------------------------------
- *
  * 001 - Box Model, Html & Body
  * 002 - Site
  * 003 - Slidebars
  * 004 - Animation
  * 005 - Helper Classes
- *
- * ----------------------------
- * 001 - Box Model, Html & Body
  */
 
 html, body, #sb-site, .sb-site-container, .sb-slidebar {
